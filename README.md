@@ -43,4 +43,4 @@ pre-trained models:
 
 |                       model                       |   model    |                                                 log                                                 | top-1 (%) | 
 |:-------------------------------------------------:|:----------:|:---------------------------------------------------------------------------------------------------:|:---------:|
-|                     Res2former                    | [github](https://github.com/danczs/Visformer/releases/download/v1.0.0/visformer_small.pth) |   [github](https://github.com/danczs/Visformer/releases/download/v1.0.0/log_visformer_small.txt)    |   80.7   |
+|                     Res2former                    | [github](https://github.com/hand-Max/Res2former/releases/tag/1) |   [github](https://github.com/hand-Max/Res2former/releases/tag/1)    |   80.7   |
